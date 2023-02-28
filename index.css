@@ -11,7 +11,7 @@ body{
 #mainbox{
     background-color: rgba(228, 167, 234, 0.693);
     margin-left: 200px;
-    border: 5px white solid;
+    border: 5px green solid;
     border-radius: 10px;
     height: 80%;
     width: 50%;
